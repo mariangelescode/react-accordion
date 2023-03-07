@@ -10,8 +10,8 @@ const url = 'public/Data/Faqs.json'
 
 export default function Container() {
 
-  const [questions, setQuestions] = useState([])
-  const [isActive, setIsActive] = useState(0);
+  const [questions, setQuestions] = useState<any[]>([])
+  const [isActive, setIsActive] = useState<any>(0);
 
 
   useEffect(() => {
