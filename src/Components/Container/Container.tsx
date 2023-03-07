@@ -6,7 +6,7 @@ import './Container.css'
 
 
 
-const url = 'public/Data/Faqs.json'
+const url = './Data/Faqs.json'
 
 export default function Container() {
 
