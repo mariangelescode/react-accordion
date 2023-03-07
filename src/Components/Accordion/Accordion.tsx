@@ -1,10 +1,7 @@
 import './Accordion.css'
 
 export default function Accordion(
-  {question}: {question: any},
-  {answer}: {answer: any},
-  {active}: {active: any},
-  {show}: {show: any},
+  {question, answer, active, show,}: {question: string, answer: string, active: boolean, show: any,}
 ) {
 
     return (
