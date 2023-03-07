@@ -1,0 +1,24 @@
+{
+    "Preguntas": [
+        {
+            "id": 1,
+            "question": "¿Debo tener una cuenta para realizar pedidos?",
+            "answer": "Así es, debes de tener una cuenta activa con nosotros, es mu fácil puedes vincular tu cuenta de gmail"
+        },
+        {
+            "id": 2,
+            "question": "¿2Debo tener una cuenta para realizar pedidos?",
+            "answer": "Así es, debes de tener una cuenta activa con nosotros, es mu fácil puedes vincular tu cuenta de gmail"
+        },
+        {
+            "id": 3,
+            "question": "¿3Debo tener una cuenta para realizar pedidos?",
+            "answer": "Así es, debes de tener una cuenta activa con nosotros, es mu fácil puedes vincular tu cuenta de gmail"
+        },
+        {
+            "id": 4,
+            "question": "¿4Debo tener una cuenta para realizar pedidos?",
+            "answer": "Así es, debes de tener una cuenta activa con nosotros, es mu fácil puedes vincular tu cuenta de gmail"
+        }
+    ]
+}

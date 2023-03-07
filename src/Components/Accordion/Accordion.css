@@ -1,0 +1,66 @@
+.active{
+    background-color: #EA8FEA;
+}
+
+.inactive{
+    background-color: #FFAACF;
+}
+
+
+.btnAccordion{
+    border: none;
+    border-radius: 0;
+    width: 100%;
+    border-bottom: 2px solid #EA8FEA;
+    color: #F6E6C2;
+    font-size: 1.2em;
+    font-weight: bolder;
+    height: 70px;
+    position: relative;
+    
+}
+
+.btnAccordion:hover{
+    text-decoration: underline;
+    border-color: #EA8FEA;
+}
+
+.btnAccordion:focus{
+    outline: unset;
+}
+
+
+
+.container__answer{
+    color: #F6E6C2;
+    font-size: 1em;
+    font-weight: bolder;
+    margin: 0;
+    /* padding: 2em; */
+    background-color: #EA8FEA;
+    /* position: relative; */
+    height: 100px;
+    animation: displayAnswer 2000ms ease-in-out;
+}
+
+p{
+    margin: 0;
+    padding: 2%;
+}
+
+@keyframes displayAnswer {
+    0% {
+        height: 0;
+        opacity: 0;
+    }
+    /* 50%{
+        height: 50px;
+    
+    } */
+    100% {
+        height: 100px;    
+        opacity: 1;
+    }
+}
+
+
