@@ -1,4 +1,5 @@
 .container__section__faqs{
-    min-width: 636px;
+    max-width: 636px;
     width: 100%;
+    margin: 0 auto;
 }
